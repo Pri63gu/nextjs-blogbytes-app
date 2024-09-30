@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const SubsTableItem = ({email,mongoId,deleteEmail,date}) => {
     
@@ -15,4 +15,4 @@ const SubsTableItem = ({email,mongoId,deleteEmail,date}) => {
   )
 }
 
-export default SubsTableItem
+export default SubsTableItem;
